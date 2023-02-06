@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "第 1 週"
+title:  "Week 1 - 食品與毒理學原理"
 date:   2023-02-05 21:34:39 +0800
 categories: notes
 ---
