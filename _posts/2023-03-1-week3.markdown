@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Week 3"
+date:   2023-03-01 21:34:39 +0800
+categories: notes
+---
+
+# 風險管理
+ - 在風險評估結果下，進行政策選擇與衡量的過程
+ - 如必要，需選擇且執行控制項目與控管措施
+ - 了解、降低 食品相關的危害 與 降低消費者負面健康風險之間的關聯性
+ - ![風險知覺](/assets/images/risk-sensing.png)
+
+ - SPS《食品安全檢驗與動植物防疫 施協定》
+   - WTO 烏拉圭回合多邊貿易談判 (1997)
+      - 允許國家可採取正當措拖保護其消費者的生命及健康
+      - 成員須確保其SPS檢測是基於適當的風險評估
+      - 風險管理的決策要透明
+         - 觀念一致性：適當的保護水準，避免豘意或無理的區別(-> 歧視 或 對國際貿易造成隱藏性限制)
+   - WHO 國際食品法典委員會（Codex Alimentarius Commission, CAC)
+      - 作為標準、指引、但非強制性
+      - 確保食品安全及健康
+      - 設最低標準作國與國間貿易的共識
+
+ - 用語
+    - Risk assessment policy 風險評估政策
+       - 在風險評估過程中訂下指引
+       - 設定風評險管理的義務(權責?!), 確保一致性及透明
+       - 建立危害分級
+       - 機構如：
+          - Eurpoean Food Safety Authority (EFSA) - 歐洲食品安全局
+          - The European Food Information Council (EUFIC) - 歐洲食品信息委員會 
+    - Risk profile 風險輪廓
+       - 描述食品安全問題及其背景
+    - 風險管理的指標
+       - Appropiate Level of Protection (ALOP)
+          - 目前公共衛生的狀態 （現在)
+       - Public Health Goal
+          - 藉由這些策略促進公共衛生狀態而減少疾病 的產生，疾病的負擔 （未來）
+       - Foor saftey objective (FSO)
+          - 以食品中產生的最大危機制定出來的 ALOP 參考
+
+![風險管理架構](/assets/images/risk-management-framework.png)
+
