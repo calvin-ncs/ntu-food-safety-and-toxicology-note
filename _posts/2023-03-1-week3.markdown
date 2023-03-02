@@ -9,7 +9,7 @@ categories: notes
  - 在風險評估結果下，進行政策選擇與衡量的過程
  - 如必要，需選擇且執行控制項目與控管措施
  - 了解、降低 食品相關的危害 與 降低消費者負面健康風險之間的關聯性
- - ![風險知覺](/assets/images/risk-sensing.png)
+ - ![風險知覺](../assets/images/risk-sensing.png)
 
  - SPS《食品安全檢驗與動植物防疫 施協定》
    - WTO 烏拉圭回合多邊貿易談判 (1997)
@@ -40,5 +40,5 @@ categories: notes
        - Foor saftey objective (FSO)
           - 以食品中產生的最大危機制定出來的 ALOP 參考
 
-![風險管理架構](/assets/images/risk-management-framework.png)
+![風險管理架構](../assets/images/risk-management-framework.png)
 
