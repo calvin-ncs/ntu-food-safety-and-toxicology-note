@@ -22,20 +22,20 @@ categories: notes
 
 ## RISK21 Matrix (21 世紀風險矩陣)
 
-![RISK21 Matrix](https://pansci.asia/wp-content/uploads/2017/05/4d5c5d11a6051a11eb2d427f0357db84.png)
+  - ![RISK21 Matrix](https://pansci.asia/wp-content/uploads/2017/05/4d5c5d11a6051a11eb2d427f0357db84.png)
+     - 簡單、 高效能透明化而且視覺化的健康風險評估方法。(直觀地說明)
+     - 這個圖裡面分紅（MOE <= 1)、黃 (MOE == 1) 、綠(MOE > 1)
+     - 毒性推估值 (mg/kg/day) vs 暴露濃度估值 (mg/kg/day)
 
-    - RISK21 Matrix
-       - 簡單、 高效能透明化而且視覺化的健康風險評估方法。(直觀地說明)
-       - 這個圖裡面分紅（MOE <= 1)、黃 (MOE == 1) 、綠(MOE > 1)
-       - 毒性推估值 (mg/kg/day) vs 暴露濃度估值 (mg/kg/day)
-    - The margin of exposure (MOE) 暴露限值
-          - MOE = 毒性推估值 Reference Value, RfV(Point of departure, POD) / 暴露總量估算值
-              - > 100, 供須關注
-              - < 1,    高度關注
-          - 數值愈少愈危險，a.k.a 暴露一點就不行
+  - The margin of exposure (MOE) 暴露限值
+     - MOE = 毒性推估值 Reference Value, RfV(Point of departure, POD) / 暴露總量估算值
+        - MOE > 100, 供須關注
+        - MOE < 1,   高度關注
+     - 數值愈少愈危險，a.k.a 暴露一點就不行
+
 ```
                 毒性推估值 RfV (also Poing of Departure, POD) <-- 以流行病學數據庫計算 (Noael)
          MOE ＝ -------------------------------------------
                                暴露紙量估算值                  <-- 國家基礎建設
 ```
-    - 致癌風險要 <10^-6
+   - 致癌風險要 <10^-6
