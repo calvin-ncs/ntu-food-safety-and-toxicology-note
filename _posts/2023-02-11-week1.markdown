@@ -29,5 +29,5 @@ categories: notes
      - 建立標準
 
 # 風險分析架構
-  - ![風險分析架構](../assets/images/risk-analysis-structure.png)
+  - ![風險分析架構](/ntu-food-safety-and-toxicology-note/assets/images/risk-analysis-structure.png)
   -  風險溝通是從風險評估開展的那一刻就開始。 在風險管理過程中也同樣有風險的溝通。所以風險溝通貫穿了整個風險分析。 只有好的溝通才讓分析能夠 達到最大的全民利益，不要讓食品安全成為大家的負擔。
