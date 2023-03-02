@@ -21,7 +21,8 @@ categories: notes
      - 用淺顯易懂的文字，把科學這些複雜的數據轉換成一般常態的語言，讓我們同樣生長在這塊土地上的所有群眾都知道在它現在的暴露模式底下所產生的健康危害到底有多少
 
 ## RISK21 Matrix (21 世紀風險矩陣)
-    - ![RISK21 Matrix](https://pansci.asia/wp-content/uploads/2017/05/4d5c5d11a6051a11eb2d427f0357db84.png)
+
+![RISK21 Matrix](https://pansci.asia/wp-content/uploads/2017/05/4d5c5d11a6051a11eb2d427f0357db84.png)
 
     - RISK21 Matrix
        - 簡單、 高效能透明化而且視覺化的健康風險評估方法。(直觀地說明)
@@ -32,9 +33,9 @@ categories: notes
               - > 100, 供須關注
               - < 1,    高度關注
           - 數值愈少愈危險，a.k.a 暴露一點就不行
-
+```
                 毒性推估值 RfV (also Poing of Departure, POD) <-- 以流行病學數據庫計算 (Noael)
          MOE ＝ -------------------------------------------
-                               暴露紙量估算值     <--- 國家基礎建設
-
+                               暴露紙量估算值                  <-- 國家基礎建設
+```
     - 致癌風險要 <10^-6
