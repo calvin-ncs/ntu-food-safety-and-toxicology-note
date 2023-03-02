@@ -29,7 +29,7 @@ Excretion 排出
 
 # 安全性評估
 
-![毒性物質劑量](../assets/images/dose-response-curve-terms.png)
+![毒性物質劑量](/ntu-food-safety-and-toxicology-note/assets/images/dose-response-curve-terms.png)
 
 NOAEL (No Observed Adverse Effect Level) 無可見不良反應的劑量
 : 從動物毒性實驗沒有觀察到不良反應劑量 
